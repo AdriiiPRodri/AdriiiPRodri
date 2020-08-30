@@ -30,26 +30,24 @@ Hi there, I'm **Adrián Peña**, a **Senior Software Engineer** and a **Penetrat
 
 ### Languages and Tools:
 
-
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=keras.io"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=portswigger.net/burp"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=metasploit.com"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=nmap.org"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=golang.org"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=sqlite.org"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=elastic.co"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=wireshark.org"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=sqlmap.org"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=owasp.org/www-project-zap"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=docker.com"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=swagger.io"></code>
-<code><img height="20" src="https://www.google.com/s2/favicons?domain=aws.amazon.com/es"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><a href="https://www.tensorflow.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></a></code>
+<code><a href="https://www.keras.io"><img height="20" src="https://www.google.com/s2/favicons?domain=keras.io"></a></code>
+<code><a href="https://www.portswigger.net/burp"><img height="20" src="https://www.google.com/s2/favicons?domain=portswigger.net/burp"></a></code>
+<code><a href="https://www.metasploit.com"><img height="20" src="https://www.google.com/s2/favicons?domain=metasploit.com"></a></code>
+<code><a href="https://www.nmap.org"><img height="20" src="https://www.google.com/s2/favicons?domain=nmap.org"></a></code>
+<code><a href="https://www.golang.org"><img height="20" src="https://www.google.com/s2/favicons?domain=golang.org"></a></code>
+<code><a href="https://www.sqlite.org"><img height="20" src="https://www.google.com/s2/favicons?domain=sqlite.org"></a></code>
+<code><a href="https://www.elastic.co"><img height="20" src="https://www.google.com/s2/favicons?domain=elastic.co"></a></code>
+<code><a href="https://www.wireshark.org"><img height="20" src="https://www.google.com/s2/favicons?domain=wireshark.org"></a></code>
+<code><a href="https://www.sqlmap.org"><img height="20" src="https://www.google.com/s2/favicons?domain=sqlmap.org"></a></code>
+<code><a href="https://www.owasp.org/www-project-zap"><img height="20" src="https://www.google.com/s2/favicons?domain=owasp.org/www-project-zap"></a></code>
+<code><a href="https://www.docker.com"><img height="20" src="https://www.google.com/s2/favicons?domain=docker.com"></a></code>
+<code><a href="https://www.swagger.io"><img height="20" src="https://www.google.com/s2/favicons?domain=swagger.io"></a></code>
+<code><a href="https://www.aws.amazon.com"><img height="20" src="https://www.google.com/s2/favicons?domain=aws.amazon.com"></a></code>
+<code><a href="https://www.python.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><a href="https://www.mysql.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></code>
+<code><a href="https://git-scm.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br/>
