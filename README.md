@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/adrianprodri/">
   <img align="left" alt="Adri's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/adriiiprodri/">
-  <img align="left" alt="Adri's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://app.hackthebox.eu/profile/136435">
   <img align="left" alt="Adri's HacktheBox" width="22px" src="https://www.google.com/s2/favicons?domain=hackthebox.eu" />
 </a>
@@ -30,8 +27,6 @@ Hi there, I'm **Adrián Peña**, a **Senior Software Engineer** and a **Penetrat
 
 ### Languages and Tools:
 
-<code><a href="https://tensorflow.org"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></a></code>
-<code><a href="https://keras.io"><img height="20" src="https://www.google.com/s2/favicons?domain=keras.io"></a></code>
 <code><a href="https://portswigger.net/burp"><img height="20" src="https://www.google.com/s2/favicons?domain=portswigger.net/burp"></a></code>
 <code><a href="https://metasploit.com"><img height="20" src="https://www.google.com/s2/favicons?domain=metasploit.com"></a></code>
 <code><a href="https://nmap.org"><img height="20" src="https://www.google.com/s2/favicons?domain=nmap.org"></a></code>
