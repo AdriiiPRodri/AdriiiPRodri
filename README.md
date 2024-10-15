@@ -11,14 +11,13 @@
 <br />
 <br />
 
-Hi there, I'm **Adrián Peña**, a **Senior Software Engineer** and a **Penetration Testing student** 🚀 from Spain :es:.
+Hi there, I'm **Adrián Peña**, a **Cloud Security Engineer** 🚀 from Spain :es:.
 
   <img align="right" alt="GIF" width="40%" height="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m a Senior Software Engineer at [Wazuh](https://www.wazuh.com/) working on API/Cluster/RBAC/Framework projects
-- 🌱 I’m currently learning about Penetration Testing, Python, Golang, etc...
+- 🌱 I’m currently learning about Security, AWS, etc...
 - 🤔 My interests are Cybersecurity, Pentesting, Artificial Intelligence, Computer vision, etc...
 - 💼 Learning new things every day
 - :heart: Travelling + food + gaming + acting
