@@ -20,7 +20,3 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/adrianprodri/)
 
 <br/>
-
-### GitHub stats:
-
-![Adri's github stats](https://github-readme-stats.vercel.app/api?username=adriiiprodri&show_icons=true&hide_border=true)
